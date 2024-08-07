@@ -5,26 +5,26 @@ El dataset que utilice es el famoso del Titanic!
 
 El CheatSheet cuenta con 12 secciones:
 
-Lectura de los datos
+**Lectura de los datos**
 
-Obtener una primera vista de los datos
+**Obtener una primera vista de los datos**
 
-Modificar el tipo de datos de una columna
+**Modificar el tipo de datos de una columna**
 
-Renombrar una columna
+**Renombrar una columna**
 
-Ordenar
+**Ordenar**
 
-Seleccionar y filtrar
+**Seleccionar y filtrar**
 
-Chequear duplicados
+**Chequear duplicados**
 
-Manejo de valores faltantes
+**Manejo de valores faltantes**
 
-Crear una nueva columna
+**Crear una nueva columna**
 
-Identificar valores únicos
+**Identificar valores únicos**
 
-Realizar cálculos y agrupaciones
+**Realizar cálculos y agrupaciones**
 
-Estadísticos básicos
+**Estadísticos básicos**
